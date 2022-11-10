@@ -2,6 +2,7 @@
 
 Useful configurations and productivity tips for the terminal.
 
+PATH
 
 secrets
 
