@@ -1,4 +1,4 @@
-# Replacing nth Occurrence
+# Replace in Specific Line
 
 You can restrict the sed command to replace the string on a specific line number.
 
