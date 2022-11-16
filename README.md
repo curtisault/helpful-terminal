@@ -12,4 +12,4 @@ See the standard_tools folder for utilities that come out of the box for unix sy
 
 ### Nonstandard Tools
 
-See the nonstandard_toold folder for additional software available via a package manager.
+See the non_standard_tools folder for additional software available via a package manager.
