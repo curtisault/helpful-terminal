@@ -32,7 +32,7 @@ cat input.file
 ## Expected Output
 
 ```
-The is a test file created by nixCrft for demo purpose.
+The is a test file created for demo purpose.
 bar is good.
 Foo is nice.
 I love FOO.
