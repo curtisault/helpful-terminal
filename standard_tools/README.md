@@ -11,20 +11,25 @@ man {tool}
 ## Tool
 
 1. !!
-2. pwd
-3. history
-4. cat
-5. wc
-6. less/more
-7. mv/cp
-8. find
-9. grep
-10. piping
-11. sed/awk
-12. ps
-13. pgrep
-14. pkill
-15. vi
+2. df
+3. pwd
+4. history
+5. cat
+6. wc
+7. less/more
+8. mv/cp
+9. find
+10. grep
+11. piping
+12. sed/awk
+13. ps
+14. pgrep
+15. pkill
+16. vi
+
+```
+df -h
+```
 
 ```
 grep -R 'client_id' lib | wc -l
