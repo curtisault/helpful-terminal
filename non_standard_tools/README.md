@@ -18,6 +18,8 @@ ncdu (NCurses Disk Usage) - NCurses Disk Usage
 
 tmux - Getting Started · tmux/tmux Wiki 
 
+youtube-dl - Download existing YouTube videos
+
 # Fun
 
 cmatrix - Matrix animation
