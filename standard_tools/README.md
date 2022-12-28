@@ -16,7 +16,7 @@ man {tool}
 4. cat
 5. wc
 6. less/more
-7. cp
+7. mv/cp
 8. find
 9. grep
 10. piping
