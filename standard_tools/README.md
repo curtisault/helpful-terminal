@@ -23,7 +23,7 @@ man {tool}
 11. grep
 12. piping
 13. sed/awk
-14. vi
+14. diff
 
 ```
 df -h
