@@ -14,19 +14,20 @@ man {tool}
 2. !!
 3. df
 4. pwd
-5. history
-6. cat
-7. wc
-8. less/more
-9. mv/cp
-10. find
-11. grep
-12. piping
-13. sed/awk
-14. ps
-15. pgrep
-16. pkill
-17. vi
+5. open
+6. history
+7. cat
+8. wc
+9. less/more
+10. mv/cp
+11. find
+12. grep
+13. piping
+14. sed/awk
+15. ps
+16. pgrep
+17. pkill
+18. vi
 
 ```
 df -h
