@@ -17,3 +17,11 @@ jq (json querying/formatting) - jq
 ncdu (NCurses Disk Usage) - NCurses Disk Usage 
 
 tmux - Getting Started · tmux/tmux Wiki 
+
+# Fun
+
+cmatrix - Matrix animation
+
+asciiquarium - aquarium animation
+
+toilet - ascii text
