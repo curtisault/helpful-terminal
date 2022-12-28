@@ -12,19 +12,18 @@ man {tool}
 
 1. man
 2. !!
-3. df
-4. pwd
-5. open
-6. history
-7. cat
-8. wc
-9. less/more
-10. mv/cp
-11. find
-12. grep
-13. piping
-14. sed/awk
-15. vi
+3. pwd
+4. open
+5. history
+6. cat
+7. wc
+8. less/more
+9. mv/cp
+10. find
+11. grep
+12. piping
+13. sed/awk
+14. vi
 
 ```
 df -h
@@ -36,10 +35,11 @@ grep -R 'client_id' lib | wc -l
 
 ## Local Machine
 
-1. ps
-2. top
-3. pgreg
-4. pkill
+1. df
+2. ps
+3. top
+4. pgreg
+5. pkill
 
 ```
 top -o rsize
