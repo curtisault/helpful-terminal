@@ -16,4 +16,6 @@ security find-generic-password -wa "<name_of_wifi>"
 
 ```
 caffeinate
+
+caffeinate -w <PID>
 ```
