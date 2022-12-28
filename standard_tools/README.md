@@ -24,10 +24,7 @@ man {tool}
 12. grep
 13. piping
 14. sed/awk
-15. ps
-16. pgrep
-17. pkill
-18. vi
+15. vi
 
 ```
 df -h
@@ -35,4 +32,24 @@ df -h
 
 ```
 grep -R 'client_id' lib | wc -l
+```
+
+## Local Machine
+
+1. ps
+2. top
+3. pgreg
+4. pkill
+
+```
+top -o rsize
+```
+
+## Networking
+
+1. traceroute 
+2. dig
+
+```
+traceroute main.crowbar.us-east-1.stage.corvusinsurance.com
 ```
