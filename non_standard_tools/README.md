@@ -12,6 +12,8 @@ alternative ag - GitHub - ggreer/the_silver_searcher: A code-searching tool simi
 
 fzf - GitHub - junegunn/fzf: A command-line fuzzy finder 
 
+ranger - visual file manager in the terminal
+
 jq (json querying/formatting) - jq 
 
 ncdu (NCurses Disk Usage) - NCurses Disk Usage 
