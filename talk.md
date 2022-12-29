@@ -21,7 +21,7 @@ toilet 'WELCOME' --metal --html > toilet.html
 
 youtube-dl - Download existing YouTube videos
 
-
+ncmpcpp - ncurses music player written in c++
 
 ---
 
@@ -110,10 +110,32 @@ thefuck - The Fuck is a magnificent app that corrects errors in previous console
 
 tmux - Getting Started · tmux/tmux Wiki 
 
+---
+
 ## tmux
+
+Default Prefix: `ctlr-b`
 
 New Session
 
 ```
-tmux new -s dev
+tmux new -s <session_name>
+```
+
+List Sessions
+
+```
+tmux list-sessions
+```
+
+Detach from session
+
+```
+<prefix> d
+```
+
+Enter Session
+
+```
+tmux a -t <session_name>
 ```
