@@ -8,7 +8,7 @@ Man pages can be found by typing
 man {tool}
 ```
 
-## Tool
+## Basic
 
 1. history
 2. tail
