@@ -4,23 +4,19 @@ curl (http requests) - curl
 
 bat - GitHub - sharkdp/bat: A cat(1) clone with wings. 
 
-ripgrep - GitHub - BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore 
+ripgrep - GitHub - [BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore]([url](https://github.com/BurntSushi/ripgrep)) 
 
-fd - GitHub - sharkdp/fd: A simple, fast and user-friendly alternative to 'find' 
-
-alternative ag - GitHub - ggreer/the_silver_searcher: A code-searching tool similar to ack, but faster. 
+fd - GitHub - [sharkdp/fd: A simple, fast and user-friendly alternative to 'find']([url](https://github.com/sharkdp/fd)) 
 
 fzf - GitHub - junegunn/fzf: A command-line fuzzy finder 
 
-ranger - visual file manager in the terminal
+yazi - [visual file manager in the terminal]([url](https://github.com/sxyazi/yazi))
 
-jq (json querying/formatting) - jq 
+jq (json querying/formatting) - [https://jqlang.github.io/jq/](https://jqlang.github.io/jq/) 
 
-ncdu (NCurses Disk Usage) - NCurses Disk Usage 
+ncdu (NCurses Disk Usage) - [NCurses Disk Usage]([url](https://dev.yorhel.nl/ncdu)) 
 
-tmux - Getting Started · tmux/tmux Wiki 
-
-youtube-dl - Download existing YouTube videos
+tmux - [Getting Started · tmux/tmux Wiki]([url](https://github.com/tmux/tmux/wiki)) 
 
 # Fun
 
