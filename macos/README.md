@@ -12,10 +12,8 @@ say "anything you want here"
 security find-generic-password -wa "<name_of_wifi>"
 ```
 
-## Give Computer Caffeine
+## Swap Usage
 
-```
-caffeinate
-
-caffeinate -w <PID>
+```bash
+sudo fs_usage | grep swapfile
 ```
