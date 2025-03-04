@@ -1,4 +1,6 @@
-# Useful Non-Standard Tools for the terminal
+These are all the tools I have in regular use.
+
+### Useful Non-Standard Tools for the terminal
 
 curl (http requests) - curl 
 
@@ -6,7 +8,7 @@ xh - [xh is a friendly and fast tool for sending HTTP requests. It reimplements 
 
 bat - [sharkdp/bat: A cat(1) clone with wings](https://github.com/sharkdp/bat)
 
-ripgrep - [BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore]([url](https://github.com/BurntSushi/ripgrep)) 
+ripgrep - [BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore](https://github.com/BurntSushi/ripgrep)
 
 fd - [sharkdp/fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd) 
 
