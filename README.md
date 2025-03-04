@@ -108,7 +108,7 @@ Vertical
    vim has a unnamed (or default) register that can be accessed with "". Any text that you delete (with d, c, s or x) or yank (with y) will be placed there, and that's what vim uses to paste,
    when no explicit register is given. A simple p is the same thing as doing ""p.
 
-      Never lose a yanked text again
+   > Never lose a yanked text again
 
    It has happened to all of us. We yank some text, than delete some other, and when we try to paste the yanked text, it's not there anymore, vim replaced it with the text that you deleted, then
    you need to go there and yanked that text again.
