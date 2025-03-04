@@ -16,7 +16,9 @@ jq (json querying/formatting) - [https://jqlang.github.io/jq/](https://jqlang.gi
 
 ncdu (NCurses Disk Usage) - [NCurses Disk Usage]([url](https://dev.yorhel.nl/ncdu)) 
 
-tmux - [Getting Started · tmux/tmux Wiki]([url](https://github.com/tmux/tmux/wiki)) 
+tmux - [Getting Started · tmux/tmux Wiki]([url](https://github.com/tmux/tmux/wiki))
+
+ghostty - [ghostty-org/ghostty: Fast, native, feature-rich terminal emulator pushing modern features](https://github.com/ghostty-org/ghostty)
 
 # Fun
 
