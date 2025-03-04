@@ -1,4 +1,5 @@
 ## terminal-depot
+
 Helpful reference manual for useful &amp; productive terminal based tools and workflows.
 
 ### Platform Specific
@@ -12,7 +13,7 @@ See the [standard_tools](standard_tools/README.md) folder for utilities that com
 
 See the [non_standard_tools](non_standard_tools/README.md) folder for additional software available via a package manager.
 
-## Intelligence Gathering
+### Intelligence Gathering
 
 - [Get IP Address](#get-ip-address)
   - [lynx](#ip-browser)
@@ -20,7 +21,7 @@ See the [non_standard_tools](non_standard_tools/README.md) folder for additional
 - [Download Website](#dl-website)
   - [lynx](#dl-website-lynx)
 
-## Tips n' Tricks
+### Tips n' Tricks
 
 - [Neovim](#neovim)
   - [Bash Output To New Buffer](#nvim-bash-to-buff)
