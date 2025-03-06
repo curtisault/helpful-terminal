@@ -28,6 +28,11 @@ See the [non_standard_tools](non_standard_tools/README.md) folder for additional
   - [Register Basics](#nvim-reg-basics)
   - [Readonly Registers](#nvim-readonly-reg)
   - [Expression Register](#nvim-expression-reg)
+- [Git](#git)
+  - [Extraction](#git-extraction)
+  - [Sync](#git-sync)
+  - [Conflicts](#git-conflicts)
+  - [Log](#git-log)
 
 # Intelligence Gathering
 
@@ -152,3 +157,57 @@ Vertical
 
   The search register, as you may have imagined, is where the latest text that you searched with /, ?, * or # is. If, for example, you just searched for /Nietzsche, and now you want to replace it with something else, there is no way
   you are going to type "Nietzsche" again, just do `:%s/<Ctrl-r />/mustache/g` and you are good to go.
+
+## git
+
+### git-extraction
+
+**Extract File From Another Branch**
+
+```bash
+git show <branch_name>:<file_name>
+```
+
+### git-sync
+
+**Sync And Overwrite Local Changes**
+
+```bash
+git fetch origin && git reset --hard origin/master && git clean -f -d
+```
+
+### git-conflicts
+
+**List All Conflicted Files**
+
+```bash
+git diff --name-only --diff-filter=U
+```
+
+### git-log
+
+**Filter By Date**
+
+Use the `--since` option with `git log` to filter commits after a specific date:
+
+```bash
+git log --since="YYYY-MM-DD" -- <file_path>
+```
+
+**Line Interval History**
+
+Use the `-L` option of `git log` to track changes to specific lines in a file:
+
+```bash
+git log -L<start_line>,<end_line>:<file_path>
+
+```
+
+**Line Interval By Date History**
+
+Combine Date and Line Filters:
+
+```bash
+git log --since="YYYY-MM-DD" -L<start_line>,<end_line>:<file_path>
+```
+
